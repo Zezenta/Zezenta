@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zezenta or José Miguel
-- 👀 I’m interested in any interesting topic
+- 👀 I’m interested in literally anything
 - 🌱 I’m currently learning JavaScript, c++, and MySQL
 - 💞️ I’m looking to collaborate on useful and innovative projects
 - 📫 How to reach me: urux11@gmail.com
