@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Zezenta or José Miguel
-- 👀 I’m interested in literally anything
-- 🌱 I’m currently learning JavaScript, c++, and MySQL
-- 💞️ I’m looking to collaborate on useful and innovative projects
-- 📫 How to reach me: urux11@gmail.com
+# ZEZENTA
+
+- **Age:** 17
+- **Country:** Ecuador
+- **Currently Learning:** C++, JavaScript, Python, and MySQL
+- **Contact:** urux11@gmail.com
+
+**Blog:** https://thebyteboulevard.blogspot.com/
